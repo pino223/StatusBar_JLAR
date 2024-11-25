@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KL0LjH79x74=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\StatusBar_JLAR\\StatusBar_JLAR\\StatusBar_JLAR.iOS\\StatusBar_JLAR.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

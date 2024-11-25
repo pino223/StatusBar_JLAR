@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\bin\Debug\netstandard2.0\StatusBar_JLAR.deps.json
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\bin\Debug\netstandard2.0\StatusBar_JLAR.dll
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\bin\Debug\netstandard2.0\ref\StatusBar_JLAR.dll
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\bin\Debug\netstandard2.0\StatusBar_JLAR.pdb
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\StatusBar_JLAR.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\StatusBar_JLAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\StatusBar_JLAR.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\StatusBar_JLAR.AssemblyInfo.cs
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\StatusBar_JLAR.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\StatusBar_JLAR.sourcelink.json
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\StatusBar_JLAR.dll
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\refint\StatusBar_JLAR.dll
+C:\Users\Dell\source\repos\StatusBar_JLAR\StatusBar_JLAR\StatusBar_JLAR\obj\Debug\netstandard2.0\StatusBar_JLAR.pdb
